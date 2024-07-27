@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to My Bank Accounts related Local APIs in Production environment"
   contactDetails:
     name: "Piyush Kumar-  Product owner"
-    email: "bWJp9@example.com"
+    email: "{cipher}94926937ba12a542ccb1106bdde18f6bfd21fa351fe8fa4373dce7306a648c99550e61d241eb04d08f53394bc0d0cc00"
   onCallSupport:
     -(555)-555-5555
     -(999)-999-9999
